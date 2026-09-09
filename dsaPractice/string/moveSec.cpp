@@ -16,7 +16,7 @@ int main(){
         if(count%4==0 || count%6==0){
             t+=s[i];
             count++;
-        }else{ 
+        }else{
             m+=s[i];
             count++;
         }
